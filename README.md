@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemidiriba
 - 👀 I’m interested in coding and security
-- 🌱 I’m currently learning Laravel and flutter 
+- 🌱 I’m Full stack Developer and strong knowladge on backend 
 - 💞️ I’m looking to collaborate on Laravel and flutter based projects
 - 📫 How to reach me at my gmail account lemidiriab5@gmail.com
 
